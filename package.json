@@ -1,6 +1,7 @@
 {
-    "name": "slick-carousel",
+    "name": "slick-carousel-dr-frankenstyle",
     "version": "1.5.8",
+    "style": "slick/slick-theme.css",
     "description": "the last carousel you'll ever need",
     "main": "slick/slick.js",
     "repository": {
